@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 💻 Full-stack developer working with **React, Node.js, Express, MySQL, PostgreSQL & Docker**
+- 💻 Full-stack developer working with **React, Node.js, Express, MySQL, PostgreSQL & Docker, Agentic AI**
 - 🌱 Currently exploring **System Design, Next.js & Python**
 - 🛠️ I enjoy building things end-to-end — from UI to API to deployment
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/umarrahi2004)
@@ -70,7 +70,7 @@
 
 <!-- Swap these for your actual top 2-4 projects with one-line descriptions -->
 
-- **[Project Name](https://github.com/umarrahidev/portfolio)** — Short description of what it does and tech used.
+- **[Hirelyze](https://github.com/umarrahidev/hirelyze)** — AI-powered Career Intelligence Platform that transforms resumes into actionable career insights through resume parsing, ATS evaluation, skill-gap analysis, and intelligent job recommendations. Powered by React, Node.js, MySQL, LLMs, and Agentic AI.
 - **[Project Name](https://github.com/umarrahidev/visit-ease)** — Short description of what it does and tech used.
 
 ---
