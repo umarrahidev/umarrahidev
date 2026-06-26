@@ -71,7 +71,7 @@
 <!-- Swap these for your actual top 2-4 projects with one-line descriptions -->
 
 - **[Hirelyze](https://github.com/umarrahidev/hirelyze-showcase)** — AI-powered Career Intelligence Platform that transforms resumes into actionable career insights through resume parsing, ATS evaluation, skill-gap analysis, and intelligent job recommendations. Powered by React, Node.js, MySQL, LLMs, and Agentic AI.
-- **[Fabricant Management System](https://github.com/umarrahidev/visit-ease)** — Short description of what it does and tech used.
+- **[Fabricant Management System](https://github.com/umarrahidev/visit-ease)** — A modern, Docker-ready ERP platform for managing inventory, purchasing, production, sales, customers, vendors, and business operations across manufacturing and supply chain industries.
 
 ---
 
